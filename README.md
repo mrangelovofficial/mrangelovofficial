@@ -15,7 +15,7 @@ I work as Senior PHP Developer. I´m based in <img src="https://www.flaticon.com
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap CSS" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> 
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind css&logoColor=white" /> 
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind%20css&logoColor=white" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white" />
