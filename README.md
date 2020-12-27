@@ -29,7 +29,6 @@ I work as Senior PHP Developer. I´m based in <img src="https://www.flaticon.com
 ### What I'm focusing on 👨‍💻
 
 Currently improving my javscript skills: VueJS & React.<br />
-BTW, if you´re looking for a laravel workout app starter, take a look at this [Gym Workout app](https://github.com/mrangelovofficial/workout_app).
 
 ### Some of my projects <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30px">
 
