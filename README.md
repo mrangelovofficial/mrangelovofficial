@@ -31,6 +31,12 @@ I work as Senior PHP Developer. I´m based in <img src="https://www.flaticon.com
 Currently improving my javscript skills: VueJS & React.<br />
 BTW, if you´re looking for a laravel workout app starter, take a look at this [Gym Workout app](https://github.com/mrangelovofficial/workout_app).
 
+### Some of my projects <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30px">
+
+* [Gym Workout app](https://github.com/mrangelovofficial/workout_app)
+* [Quarks](https://github.com/mrangelovofficial/Quarks)
+
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/mrangelovofficial" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mr-angelov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
