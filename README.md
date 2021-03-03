@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Georgi Angelov](https://mrangelov.ga/#AboutMe)!
 <p>Welcome to my profile! </br>
-I work as Senior PHP Developer. I´m based in <img src="https://www.flaticon.com/svg/static/icons/svg/197/197502.svg" width="13"/> <b>Plovdiv, Bulgaria</b>.
+I work as Senior Full Stack Developer. I´m based in <img src="https://www.flaticon.com/svg/static/icons/svg/197/197502.svg" width="13"/> <b>Sofia, Bulgaria</b>.
 
 
 <h3>🔭 Things I code with</h3>
