@@ -1,17 +1,17 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Georgi Angelov](https://mrangelov.ga/#AboutMe)!
 <p>Welcome to my profile! </br>
-I work as Senior Full Stack Developer. I´m based in <img src="https://www.flaticon.com/svg/static/icons/svg/197/197502.svg" width="13"/> <b>Sofia, Bulgaria</b>.
+I work as Senior Full Stack Developer. I´m based in <img src="https://cdn-icons-png.flaticon.com/512/2451/2451728.png" width="13"/> <b>Sofia, Bulgaria</b>.
 
 
 <h3>🔭 Things I code with</h3>
 <p>
-  <img alt="PHP" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap CSS" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> 
@@ -28,13 +28,14 @@ I work as Senior Full Stack Developer. I´m based in <img src="https://www.flati
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my javascript skills: VueJS & React.<br />
+I'm currently focusing on several areas, one of which is related to the enrichment of my AWS and network knowledge (CCNA). Also building new features for my new platform [Boostkar](https://boostkar.com/)
 
 ### Some of my projects <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30px">
 
-* [SimpleDesk](https://github.com/mrangelovofficial/simple-desk)
-* [Gym Workout app](https://github.com/mrangelovofficial/workout_app)
-* [Quarks](https://github.com/mrangelovofficial/Quarks)
+* [Vehicle Management Platform - Boostkar](https://boostkar.com/)
+* [Ticket Platform - SimpleDesk](https://github.com/mrangelovofficial/simple-desk)
+* [Gym Workout Platform](https://github.com/mrangelovofficial/workout_app)
+* [Shortening Platform - Quarks](https://github.com/mrangelovofficial/Quarks)
 
 
 <h3>Where to find me</h3>
