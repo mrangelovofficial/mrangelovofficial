@@ -9,6 +9,7 @@ I work as Senior Full Stack Developer. I´m based in <img src="https://cdn-icons
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
@@ -27,8 +28,8 @@ I work as Senior Full Stack Developer. I´m based in <img src="https://cdn-icons
 </p>
 
 ### What I'm focusing on 👨‍💻
-
-I'm currently focusing on several areas, one of which is related to the enrichment of my AWS and network knowledge (CCNA). Also building new features for my new platform [Boostkar](https://boostkar.com/)
+ 
+In my spare time, I am currently fully focused on developing the [Boostkar](https://boostkar.com/) platform and bringing out new, better and more stable versions. To further develop the platform, I started learning Flutter.
 
 ### Some of my projects <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30px">
 
