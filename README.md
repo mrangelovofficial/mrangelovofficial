@@ -29,7 +29,7 @@ I work as Senior Full Stack Developer. I´m based in <img src="https://cdn-icons
 
 ### What I'm focusing on 👨‍💻
  
-In my spare time, I am currently fully focused on developing the [Boostkar](https://boostkar.com/) platform and bringing out new, better and more stable versions. To further develop the platform, I started learning Flutter.
+In my spare time, I am currently fully focused on developing the [Boostkar](https://boostkar.com/) platform and bringing out new, better and more stable versions.
 
 ### Some of my projects <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30px">
 
