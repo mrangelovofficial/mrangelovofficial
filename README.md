@@ -1,6 +1,6 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Georgi Angelov](https://mrangelov.ga/#AboutMe)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Georgi Angelov](https://mrangelov.com/#AboutMe)!
 <p>Welcome to my profile! </br>
-I work as Senior Full Stack Developer. I´m based in <img src="https://cdn-icons-png.flaticon.com/512/2451/2451728.png" width="13"/> <b>Sofia, Bulgaria</b>.
+I work as Full Stack Developer. I´m based in <img src="https://cdn-icons-png.flaticon.com/512/2451/2451728.png" width="13"/> <b>Sofia, Bulgaria</b>.
 
 
 <h3>🔭 Things I code with</h3>
@@ -29,19 +29,19 @@ I work as Senior Full Stack Developer. I´m based in <img src="https://cdn-icons
 
 ### What I'm focusing on 👨‍💻
  
-In my spare time, I am currently fully focused on developing the [Boostkar](https://boostkar.com/) platform and bringing out new, better and more stable versions.
+In my spare time, I am currently fully focused on developing the [Uptimeplus](https://uptimeplus.app/) platform and bringing out new, better and more stable versions.
 
 ### Some of my projects <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30px">
 
+* [Up Time Platform - Uptimeplus](https://uptimeplus.app/)
 * [Vehicle Management Platform - Boostkar](https://boostkar.com/)
 * [Ticket Platform - SimpleDesk](https://github.com/mrangelovofficial/simple-desk)
-* [Gym Workout Platform](https://github.com/mrangelovofficial/workout_app)
 * [Shortening Platform - Quarks](https://github.com/mrangelovofficial/Quarks)
 
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/mrangelovofficial" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mr-angelov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://mrangelov.ga/" target="_blank"><img alt="Mrangelov website" src="https://img.shields.io/badge/Mr.Angelov-black?&style=for-the-badge&logo=&logoColor=white" /></a>
+  <a href="https://mrangelov.com/" target="_blank"><img alt="Mrangelov website" src="https://img.shields.io/badge/Mr.Angelov-black?&style=for-the-badge&logo=&logoColor=white" /></a>
 </p>
 
