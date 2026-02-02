@@ -27,16 +27,11 @@ I work as Full Stack Developer. I´m based in <img src="https://cdn-icons-png.fl
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-### What I'm focusing on 👨‍💻
- 
-In my spare time, I am currently fully focused on developing the [Uptimeplus](https://uptimeplus.app/) platform and bringing out new, better and more stable versions.
 
 ### Some of my projects <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30px">
 
-* [Up Time Platform - Uptimeplus](https://uptimeplus.app/)
-* [Vehicle Management Platform - Boostkar](https://boostkar.com/)
-* [Ticket Platform - SimpleDesk](https://github.com/mrangelovofficial/simple-desk)
-* [Shortening Platform - Quarks](https://github.com/mrangelovofficial/Quarks)
+* [Up Time Platform - Uptimeplus](https://uptimeplus.mrangelov.com/)
+* [Vehicle Management Platform - Boostkar](https://boostkar.mrangelov.com/)
 
 
 <h3>Where to find me</h3>
